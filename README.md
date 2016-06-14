@@ -1,5 +1,7 @@
 # Ethereum Test Tools
 
+[![Join the chat at https://gitter.im/ethereum/test-tools](https://badges.gitter.im/ethereum/test-tools.svg)](https://gitter.im/ethereum/test-tools?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Benchmark and test tools for Ethereum implementations
 
 ## Requirements
